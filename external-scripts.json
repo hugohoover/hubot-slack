@@ -12,5 +12,6 @@
   "hubot-themelt",
   "hubot-suggest",
   "hubot-rubygems-search",
-  "hubot-cron"
+  "hubot-cron",
+  "hubot-mygene"
 ]
