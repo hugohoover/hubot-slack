@@ -3,7 +3,6 @@
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
-  "hubot-google-translate",
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
@@ -14,6 +13,5 @@
   "hubot-rubygems-search",
   "hubot-cron",
   "hubot-mygene",
-  "hubot-microsoft-translator",
   "hubot-yandex-translate"
 ]
