@@ -13,5 +13,6 @@
   "hubot-suggest",
   "hubot-rubygems-search",
   "hubot-cron",
-  "hubot-mygene"
+  "hubot-mygene",
+  "hubot-microsoft-translator"
 ]
