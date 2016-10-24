@@ -23,7 +23,8 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^4.2.1",
     "hubot-suggest": "0.0.1",
-    "hubot-themelt": "^1.1.0"
+    "hubot-themelt": "^1.1.0",
+    "hubot-yandex-translate": "^1.0.3"
   },
   "engines": {
     "node": "0.10.x"

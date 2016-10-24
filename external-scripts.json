@@ -14,5 +14,6 @@
   "hubot-rubygems-search",
   "hubot-cron",
   "hubot-mygene",
-  "hubot-microsoft-translator"
+  "hubot-microsoft-translator",
+  "hubot-yandex-translate"
 ]
